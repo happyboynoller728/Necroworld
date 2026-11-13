@@ -181,4 +181,4 @@ This repository serves as the official landing page for **NecroWorld**. The soft
 **Get the most recent version of NecroWorld today!**
 
 ---
-**Last updated:** 2026-11-13 05:20:24 UTC
+**Last updated:** 2026-11-13 13:59:37 UTC
